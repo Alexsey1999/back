@@ -1,0 +1,8 @@
+/.vscode
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+/tmp
+config_env
+config_main
